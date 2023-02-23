@@ -1,1 +1,3 @@
-# 2023-01-EN-Berlin-Remote2-MiniCodeReviews
+# Mini Code Reviews
+
+A space where peer-teaching can take place by students reviewing each other's attempts at small coding riddles.
